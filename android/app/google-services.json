@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_id": "mockproject-1234",
+    "project_number": "123456789000",
+    "name": "FirebaseQuickstarts",
+    "firebase_url": "https://mockproject-1234.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789000:android:f1bf012572b04063",
+        "client_id": "android:com.google.samples.quickstart.admobexample",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.perkoren.objdetectapp",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789000-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzbSzCn1N6LWIe6wthYyrgUUSAlUsdqMb-wvTo"
+        }
+      ],
+      "services": {
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
